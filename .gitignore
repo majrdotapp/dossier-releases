@@ -1,0 +1,7 @@
+# Derived per-archive release notes: release.sh copies release-notes/<tag>.md to
+# releases/Dossier-<tag>.md so generate_appcast can attach them as
+# <sparkle:releaseNotesLink>. The canonical copies live in release-notes/; these
+# derived ones are regenerated every run, so don't track them.
+releases/*.md
+releases/*.html
+.DS_Store
