@@ -4,6 +4,21 @@
         <title>Dossier</title>
         <item>
             <title>1.9</title>
+            <pubDate>Tue, 18 Aug 2026 23:04:35 -0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://github.com/majrdotapp/dossier-releases/releases/download/updates/Dossier-1.9.8.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/majrdotapp/dossier-releases/releases/download/updates/Dossier-1.9.8.zip" length="6390618" type="application/octet-stream" sparkle:edSignature="HKs4CsQo7aad0gSv1AfZCq7DW+SshTdFkvULZY7KH2IsoFYuvDe3jYngQuzAdkoktatZQQgGZHMZTK8ocyKFAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/majrdotapp/dossier-releases/releases/download/updates/Dossier8-7.delta" sparkle:deltaFrom="7" length="601298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kK+EMZ5wqZyXnpA0yF7SNCWkl5G5K0b9fP6SUqiWfMRld6vAQoW65U0Z499NAk2W95vyvvjmMlVSCd6f+6AkDw=="/>
+                <enclosure url="https://github.com/majrdotapp/dossier-releases/releases/download/updates/Dossier8-6.delta" sparkle:deltaFrom="6" length="1796006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tgiGIFl62lojRGuYWs1k/DnifZRP3Jo+yeFJm3tyDcl2P5Wh9iZ23t2Vto4/j0kKd8fIfBvDwcsy/iQfncqNDA=="/>
+                <enclosure url="https://github.com/majrdotapp/dossier-releases/releases/download/updates/Dossier8-5.delta" sparkle:deltaFrom="5" length="2821586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ugc5mxMtMepFzdLpDznb/Az2Gb7tzgikfKfEAnWUZT0rYM1ii59hm3nFi08JSZXGMQ/MDh+9LUMHJV4cArIODw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.9</title>
             <pubDate>Tue, 18 Aug 2026 20:11:57 -0700</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
@@ -28,16 +43,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/majrdotapp/dossier-releases/releases/download/updates/Dossier6-5.delta" sparkle:deltaFrom="5" length="1969742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zWtFcrMvqPxu9j48K8L3g79rDhYDzmTrehfA0oSlZl9Pg9nA/WdLbqZdE6ojpfI9/gc1QNX3EtZITKOU9bBDBA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3</title>
-            <pubDate>Sun, 07 Jun 2026 10:49:30 -0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://github.com/majrdotapp/dossier-releases/releases/download/updates/Dossier-1.3.5.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/majrdotapp/dossier-releases/releases/download/updates/Dossier-1.3.5.zip" length="4720901" type="application/octet-stream" sparkle:edSignature="ei3SGDQhsueaKtTh4m7vZYcmE7WpT6COp3MxQ0bVu2CETZ2s6b5bi1H/BfNUqADE1kz/izFXgcJ1gmSyCsSkAA=="/>
         </item>
     </channel>
 </rss>
